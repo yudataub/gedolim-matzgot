@@ -29,6 +29,9 @@
  "story-123": {
   "pages": 15
  },
+ "story-124": {
+  "pages": 15
+ },
  "story-129": {
   "pages": 17
  },
@@ -39,6 +42,9 @@
   "pages": 15
  },
  "story-136": {
+  "pages": 15
+ },
+ "story-148": {
   "pages": 15
  },
  "story-154": {
@@ -53,6 +59,9 @@
  "story-23": {
   "pages": 15
  },
+ "story-28": {
+  "pages": 15
+ },
  "story-306": {
   "pages": 15
  },
@@ -63,6 +72,9 @@
   "pages": 15
  },
  "story-315": {
+  "pages": 15
+ },
+ "story-317": {
   "pages": 15
  },
  "story-32": {
@@ -77,6 +89,9 @@
  "story-325": {
   "pages": 15
  },
+ "story-326": {
+  "pages": 15
+ },
  "story-328": {
   "pages": 15
  },
@@ -84,6 +99,36 @@
   "pages": 17
  },
  "story-331": {
+  "pages": 15
+ },
+ "story-34": {
+  "pages": 16
+ },
+ "story-35": {
+  "pages": 15
+ },
+ "story-52": {
+  "pages": 15
+ },
+ "story-56": {
+  "pages": 15
+ },
+ "story-7": {
+  "pages": 15
+ },
+ "story-71": {
+  "pages": 15
+ },
+ "story-73": {
+  "pages": 13
+ },
+ "story-77": {
+  "pages": 15
+ },
+ "story-93": {
+  "pages": 15
+ },
+ "story-95": {
   "pages": 15
  }
 }
