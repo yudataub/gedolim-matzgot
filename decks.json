@@ -1,55 +1,4 @@
 {
- "ovd-2": {
-  "pages": 15
- },
- "ovd-6": {
-  "pages": 15
- },
- "ovd-8": {
-  "pages": 15
- },
- "ovd-10": {
-  "pages": 17
- },
- "ovd-24": {
-  "pages": 15
- },
- "ovd-26": {
-  "pages": 15
- },
- "ovd-30": {
-  "pages": 16
- },
- "ovd-31": {
-  "pages": 15
- },
- "ovd-32": {
-  "pages": 15
- },
- "ovd-35": {
-  "pages": 17
- },
- "ovd-38": {
-  "pages": 15
- },
- "ovd-41": {
-  "pages": 15
- },
- "ovd-44": {
-  "pages": 15
- },
- "ovd-45": {
-  "pages": 16
- },
- "ovd-46": {
-  "pages": 17
- },
- "ovd-48": {
-  "pages": 15
- },
- "ovd-49": {
-  "pages": 18
- },
  "story-10": {
   "pages": 16
  },
@@ -1179,6 +1128,9 @@
   "pages": 15
  },
  "tefd-66": {
+  "pages": 15
+ },
+ "tefd-82": {
   "pages": 15
  },
  "tefd-83": {
