@@ -1448,6 +1448,9 @@
  "fig-elon": {
   "pages": 12
  },
+ "fig-avdon": {
+  "pages": 7
+ },
  "fig-chacham-tzvi": {
   "pages": 15
  },
@@ -1455,6 +1458,12 @@
   "pages": 14
  },
  "fig-noda-beyehuda": {
+  "pages": 15
+ },
+ "fig-rav-chisda": {
+  "pages": 15
+ },
+ "fig-rav-nachman": {
   "pages": 15
  }
 }
