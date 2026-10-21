@@ -1415,6 +1415,9 @@
  "fig-yair-hagiladi": {
   "pages": 8
  },
+ "fig-reb-chaim-brisk": {
+  "pages": 15
+ },
  "fig-rashbam": {
   "pages": 15
  },
@@ -1436,10 +1439,22 @@
  "fig-raavad": {
   "pages": 15
  },
+ "fig-magen-avraham": {
+  "pages": 15
+ },
  "fig-ivtzan": {
   "pages": 14
  },
  "fig-elon": {
   "pages": 12
+ },
+ "fig-chacham-tzvi": {
+  "pages": 15
+ },
+ "fig-yaavetz": {
+  "pages": 14
+ },
+ "fig-noda-beyehuda": {
+  "pages": 15
  }
 }
