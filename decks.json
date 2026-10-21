@@ -1379,11 +1379,17 @@
  "fig-alshich": {
   "pages": 15
  },
+ "fig-rabbenu-gershom": {
+  "pages": 15
+ },
  "fig-shamgar": {
   "pages": 15
  },
  "fig-alkabetz": {
   "pages": 17
+ },
+ "fig-abarbanel": {
+  "pages": 15
  },
  "fig-tola": {
   "pages": 12
@@ -1391,8 +1397,14 @@
  "fig-kitzur": {
   "pages": 15
  },
+ "fig-chovot-halevavot": {
+  "pages": 15
+ },
  "fig-yair-hagiladi": {
   "pages": 8
+ },
+ "fig-rashbam": {
+  "pages": 15
  },
  "fig-maharsha": {
   "pages": 15
@@ -1400,7 +1412,16 @@
  "fig-bach": {
   "pages": 14
  },
+ "fig-tur": {
+  "pages": 15
+ },
  "fig-shach-hakohen": {
   "pages": 14
+ },
+ "fig-ri-migash": {
+  "pages": 15
+ },
+ "fig-raavad": {
+  "pages": 15
  }
 }
