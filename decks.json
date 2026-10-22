@@ -1469,6 +1469,9 @@
  "fig-tzadok-hakohen": {
   "pages": 14
  },
+ "fig-fatiya": {
+  "pages": 15
+ },
  "fig-rav-chisda": {
   "pages": 15
  },
@@ -1503,6 +1506,15 @@
   "pages": 15
  },
  "fig-rav-amram": {
+  "pages": 15
+ },
+ "fig-shkop": {
+  "pages": 13
+ },
+ "fig-chaim-ozer": {
+  "pages": 15
+ },
+ "fig-tzitz-eliezer": {
   "pages": 15
  }
 }
