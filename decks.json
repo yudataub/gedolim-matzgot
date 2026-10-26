@@ -1916,13 +1916,25 @@
  "stein2-1": {
   "pages": 15
  },
+ "stein2-2": {
+  "pages": 15
+ },
  "stein2-3": {
   "pages": 15
  },
  "abuh2-1": {
   "pages": 15
  },
+ "abuh2-2": {
+  "pages": 15
+ },
+ "kahan2-2": {
+  "pages": 15
+ },
  "elyash2-2": {
+  "pages": 15
+ },
+ "elyash2-3": {
   "pages": 15
  },
  "szo2-1": {
@@ -1931,7 +1943,61 @@
  "yismk2-1": {
   "pages": 15
  },
+ "yismk2-2": {
+  "pages": 15
+ },
+ "yismk2-3": {
+  "pages": 15
+ },
+ "yschw2-1": {
+  "pages": 15
+ },
+ "yschw2-2": {
+  "pages": 15
+ },
+ "yschw2-3": {
+  "pages": 15
+ },
+ "rlakish2-1": {
+  "pages": 14
+ },
+ "rlakish2-2": {
+  "pages": 15
+ },
+ "rlakish2-3": {
+  "pages": 15
+ },
+ "rashi2-1": {
+  "pages": 15
+ },
+ "rashi2-2": {
+  "pages": 15
+ },
  "rashi2-3": {
+  "pages": 15
+ },
+ "rfrida2-1": {
+  "pages": 15
+ },
+ "rashsh2-1": {
+  "pages": 15
+ },
+ "rashsh2-2": {
+  "pages": 15
+ },
+ "rashsh2-3": {
+  "pages": 15
+ },
+ "akeiger2-1": {
+  "pages": 15
+ },
+ "akeiger2-2": {
+  "pages": 15
+ },
+ "akeiger2-3": {
+  "pages": 15
+ },
+ "mfein2-1": {
   "pages": 15
  }
 }
