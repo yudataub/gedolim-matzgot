@@ -1913,6 +1913,9 @@
  "shach2-2": {
   "pages": 15
  },
+ "shach2-3": {
+  "pages": 15
+ },
  "stein2-1": {
   "pages": 15
  },
@@ -1931,6 +1934,12 @@
  "kahan2-2": {
   "pages": 15
  },
+ "kahan2-3": {
+  "pages": 15
+ },
+ "elyash2-1": {
+  "pages": 15
+ },
  "elyash2-2": {
   "pages": 15
  },
@@ -1939,6 +1948,9 @@
  },
  "szo2-1": {
   "pages": 15
+ },
+ "szo2-3": {
+  "pages": 16
  },
  "yismk2-1": {
   "pages": 15
@@ -1998,6 +2010,9 @@
   "pages": 15
  },
  "mfein2-1": {
+  "pages": 15
+ },
+ "mfein2-3": {
   "pages": 15
  }
 }
