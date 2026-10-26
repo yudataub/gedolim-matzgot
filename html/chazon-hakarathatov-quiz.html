@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>החזון איש והכרת הטוב</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@500;700;900&family=Heebo:wght@400;600;800&display=swap');
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{height:100%}
+  body{
+    font-family:'Heebo',sans-serif;
+    background:radial-gradient(circle at 15% 10%,#fff6dc 0%,#f3e2b0 40%,#d9c27a 100%);
+    color:#3b3a14;
+    display:flex;align-items:center;justify-content:center;
+    padding:1.5vh 2vw;
+    overflow:hidden;
+  }
+  .page{
+    width:100%;max-width:1200px;height:96vh;
+    background:#fffdf5;
+    border-radius:28px;
+    border:4px solid #7a8a2e;
+    box-shadow:0 12px 40px rgba(90,80,20,.35);
+    padding:2.2vh 3vw;
+    display:flex;flex-direction:column;
+    position:relative;overflow:hidden;
+  }
+  .page::before,.page::after{
+    content:"";position:absolute;width:260px;height:260px;border-radius:50%;
+    background:radial-gradient(circle,#f2c94c55,transparent 70%);
+  }
+  .page::before{top:-90px;left:-90px}
+  .page::after{bottom:-110px;right:-110px;background:radial-gradient(circle,#9bb24a44,transparent 70%)}
+  header{text-align:center;position:relative;z-index:1;margin-bottom:1.4vh}
+  .tag{
+    display:inline-block;background:#7a8a2e;color:#fffbe8;
+    padding:.35vh 1.4vw;border-radius:30px;font-weight:600;font-size:1.7vh;
+    letter-spacing:.5px;
+  }
+  h1{
+    font-family:'Frank Ruhl Libre',serif;font-weight:900;
+    font-size:5vh;color:#5a5f12;margin-top:.6vh;
+  }
+  h1 span{color:#c98a12}
+  .sub{font-size:2vh;color:#6d6a3a;margin-top:.3vh}
+  .heart{font-size:3vh;color:#c98a12}
+  .grid{
+    flex:1;display:grid;grid-template-columns:1fr 1fr;gap:1.6vh 1.6vw;
+    position:relative;z-index:1;
+  }
+  .q{
+    background:linear-gradient(135deg,#fffaf0,#fbf1d2);
+    border:2px solid #e2cf8e;border-right:10px solid #9bb24a;
+    border-radius:18px;padding:1.4vh 1.3vw;
+    display:flex;flex-direction:column;
+  }
+  .q:nth-child(even){border-right-color:#e0a526}
+  .q .top{display:flex;gap:.9vw;align-items:flex-start}
+  .num{
+    flex-shrink:0;width:4.4vh;height:4.4vh;border-radius:50%;
+    background:#7a8a2e;color:#fff;font-weight:800;font-size:2.3vh;
+    display:flex;align-items:center;justify-content:center;
+  }
+  .q:nth-child(even) .num{background:#c98a12}
+  .text{font-size:2.35vh;line-height:1.45;color:#3b3a14}
+  .text b{color:#8a4b00;background:#fde9a8;padding:0 .3vw;border-radius:5px}
+  .lines{flex:1;margin-top:1vh;
+    background-image:repeating-linear-gradient(to bottom,transparent 0,transparent 3.4vh,#c9b98a 3.4vh,#c9b98a calc(3.4vh + 1px));
+    min-height:3.6vh}
+  .q.wide{grid-column:1 / -1;border-right-color:#c98a12;background:linear-gradient(135deg,#fff8e1,#f6ecc4)}
+  .q.wide .num{background:linear-gradient(135deg,#7a8a2e,#c98a12)}
+  footer{text-align:center;font-size:1.8vh;color:#6d6a3a;margin-top:1.2vh;position:relative;z-index:1}
+  footer b{color:#5a5f12}
+</style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <div class="tag">חידון · גדולי ישראל</div>
+    <h1>החזון איש <span>והכרת הטוב</span></h1>
+    <div class="sub"><span class="heart">♥</span> השכנה שעזרה – והתודה שנמשכה שנים <span class="heart">♥</span></div>
+  </header>
+
+  <div class="grid">
+    <div class="q">
+      <div class="top"><div class="num">1</div>
+        <div class="text"><b>מי עזר</b> לחזון איש כאשר <b>אשתו הייתה חולה</b>?</div></div>
+      <div class="lines"></div>
+    </div>
+    <div class="q">
+      <div class="top"><div class="num">2</div>
+        <div class="text">מה <b>הרגיש</b> החזון איש <b>בלב</b> לאחר מכן?</div></div>
+      <div class="lines"></div>
+    </div>
+    <div class="q">
+      <div class="top"><div class="num">3</div>
+        <div class="text">מה הוא <b>חשב</b> – איך יכיר לה טובה: <b>בכסף</b> או <b>בלימוד תורה</b>?</div></div>
+      <div class="lines"></div>
+    </div>
+    <div class="q">
+      <div class="top"><div class="num">4</div>
+        <div class="text">מה <b>עשה</b> החזון איש כדי <b>להכיר טובה לשכנה</b>?</div></div>
+      <div class="lines"></div>
+    </div>
+    <div class="q">
+      <div class="top"><div class="num">5</div>
+        <div class="text">במשך <b>כמה שנים</b> למד החזון איש <b>עם הילדים</b>?</div></div>
+      <div class="lines"></div>
+    </div>
+    <div class="q">
+      <div class="top"><div class="num">6</div>
+        <div class="text">מה <b>למדנו</b> מהסיפור על <b>מידת הכרת הטוב</b>?</div></div>
+      <div class="lines"></div>
+    </div>
+    <div class="q wide">
+      <div class="top"><div class="num">7</div>
+        <div class="text">ומה איתנו? <b>איפה גם אנחנו יכולים להכיר טובה</b>? כתבו שתי דוגמאות – בבית, בכיתה או בשכונה.</div></div>
+      <div class="lines"></div>
+    </div>
+  </div>
+
+  <footer>מי שמכיר טובה לאדם – <b>לומד להכיר טובה גם לקדוש ברוך הוא</b></footer>
+</div>
+<script>window.parent.postMessage({ action: "ready" }, "*"); 
+ 
+window.console = new Proxy(console, {
+  get(target, prop) {
+    if (['log', 'warn', 'error'].includes(prop)) {
+      return new Proxy(target[prop], {
+        apply(fn, thisArg, args) {
+          fn.apply(thisArg, args);
+          window.parent.postMessage({ action: 'console', 
+            type: prop, 
+            args: args.map((arg) => {
+              try {
+                return JSON.stringify(arg).replace(/^["']|["']$/g, '');
+              } catch (e) {
+                return arg;
+              }
+            }) 
+          }, '*');
+        }
+      });
+    }
+    return target[prop];
+  }
+});
+</script></body>
+</html>
