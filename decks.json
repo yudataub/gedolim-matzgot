@@ -2432,10 +2432,19 @@
  "leahr5-1": {
   "pages": 15
  },
+ "folkr6-1": {
+  "pages": 15
+ },
  "folkr6-11": {
   "pages": 15
  },
+ "folkr6-12": {
+  "pages": 15
+ },
  "folkr6-13": {
+  "pages": 15
+ },
+ "folkr6-14": {
   "pages": 15
  },
  "folkr6-15": {
@@ -2447,7 +2456,19 @@
  "folkr6-17": {
   "pages": 15
  },
+ "folkr6-18": {
+  "pages": 15
+ },
  "folkr6-19": {
+  "pages": 15
+ },
+ "folkr6-2": {
+  "pages": 15
+ },
+ "folkr6-20": {
+  "pages": 15
+ },
+ "folkr6-21": {
   "pages": 15
  },
  "folkr6-22": {
@@ -2459,7 +2480,19 @@
  "folkr6-24": {
   "pages": 15
  },
+ "folkr6-25": {
+  "pages": 15
+ },
  "folkr6-26": {
+  "pages": 15
+ },
+ "folkr6-27": {
+  "pages": 15
+ },
+ "folkr6-28": {
+  "pages": 15
+ },
+ "folkr6-29": {
   "pages": 15
  },
  "folkr6-3": {
@@ -2471,13 +2504,40 @@
  "folkr6-31": {
   "pages": 15
  },
+ "folkr6-32": {
+  "pages": 15
+ },
  "folkr6-33": {
+  "pages": 15
+ },
+ "folkr6-34": {
+  "pages": 15
+ },
+ "folkr6-35": {
+  "pages": 15
+ },
+ "folkr6-36": {
+  "pages": 15
+ },
+ "folkr6-37": {
   "pages": 15
  },
  "folkr6-39": {
   "pages": 15
  },
+ "folkr6-4": {
+  "pages": 15
+ },
  "folkr6-40": {
+  "pages": 15
+ },
+ "folkr6-41": {
+  "pages": 15
+ },
+ "folkr6-42": {
+  "pages": 15
+ },
+ "folkr6-43": {
   "pages": 15
  },
  "folkr6-44": {
@@ -2486,7 +2546,19 @@
  "folkr6-46": {
   "pages": 15
  },
+ "folkr6-47": {
+  "pages": 15
+ },
  "folkr6-48": {
+  "pages": 15
+ },
+ "folkr6-49": {
+  "pages": 15
+ },
+ "folkr6-5": {
+  "pages": 15
+ },
+ "folkr6-50": {
   "pages": 15
  },
  "folkr6-51": {
@@ -2495,7 +2567,19 @@
  "folkr6-53": {
   "pages": 15
  },
+ "folkr6-54": {
+  "pages": 15
+ },
  "folkr6-55": {
+  "pages": 15
+ },
+ "folkr6-56": {
+  "pages": 15
+ },
+ "folkr6-57": {
+  "pages": 15
+ },
+ "folkr6-58": {
   "pages": 15
  },
  "folkr6-59": {
@@ -2505,6 +2589,12 @@
   "pages": 15
  },
  "folkr6-66": {
+  "pages": 15
+ },
+ "folkr6-75": {
+  "pages": 15
+ },
+ "mosher6-1": {
   "pages": 15
  }
 }
