@@ -2282,6 +2282,9 @@
  "mosher5-3": {
   "pages": 15
  },
+ "mosher5-4": {
+  "pages": 15
+ },
  "mosher5-5": {
   "pages": 15
  },
@@ -2294,6 +2297,9 @@
  "mosher5-8": {
   "pages": 15
  },
+ "davidr5-1": {
+  "pages": 15
+ },
  "davidr5-2": {
   "pages": 15
  },
@@ -2303,16 +2309,28 @@
  "mirir5-2": {
   "pages": 15
  },
+ "mirir5-3": {
+  "pages": 15
+ },
  "yaakr5-1": {
   "pages": 15
  },
  "yaakr5-2": {
   "pages": 15
  },
+ "yaakr5-5": {
+  "pages": 15
+ },
  "yaakr5-6": {
   "pages": 15
  },
  "shimr5-1": {
+  "pages": 15
+ },
+ "aharr5-1": {
+  "pages": 15
+ },
+ "beityr5-1": {
   "pages": 15
  }
 }
