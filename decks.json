@@ -2273,6 +2273,9 @@
  "shlor5-1": {
   "pages": 15
  },
+ "shlor5-2": {
+  "pages": 15
+ },
  "mosher5-1": {
   "pages": 15
  },
@@ -2306,6 +2309,9 @@
  "davidr5-3": {
   "pages": 15
  },
+ "mirir5-1": {
+  "pages": 15
+ },
  "mirir5-2": {
   "pages": 15
  },
@@ -2318,6 +2324,12 @@
  "yaakr5-2": {
   "pages": 15
  },
+ "yaakr5-3": {
+  "pages": 15
+ },
+ "yaakr5-4": {
+  "pages": 15
+ },
  "yaakr5-5": {
   "pages": 15
  },
@@ -2327,10 +2339,70 @@
  "shimr5-1": {
   "pages": 15
  },
+ "chazr5-1": {
+  "pages": 15
+ },
+ "chazr5-2": {
+  "pages": 15
+ },
+ "elisr5-1": {
+  "pages": 15
+ },
+ "rlakr5-1": {
+  "pages": 15
+ },
+ "sarar5-1": {
+  "pages": 15
+ },
+ "sarar5-2": {
+  "pages": 15
+ },
  "aharr5-1": {
   "pages": 15
  },
+ "yhchr5-1": {
+  "pages": 15
+ },
+ "shvadr5-1": {
+  "pages": 15
+ },
+ "nachr5-1": {
+  "pages": 15
+ },
  "beityr5-1": {
+  "pages": 15
+ },
+ "yosefr5-1": {
+  "pages": 15
+ },
+ "pinkusr5-1": {
+  "pages": 15
+ },
+ "pinkusr5-2": {
+  "pages": 13
+ },
+ "montr5-1": {
+  "pages": 15
+ },
+ "tavgr5-1": {
+  "pages": 15
+ },
+ "ysegr5-1": {
+  "pages": 15
+ },
+ "bgarmr5-1": {
+  "pages": 15
+ },
+ "noachr5-1": {
+  "pages": 15
+ },
+ "elzavr5-1": {
+  "pages": 15
+ },
+ "tzelr5-1": {
+  "pages": 12
+ },
+ "naomir5-1": {
   "pages": 15
  }
 }
