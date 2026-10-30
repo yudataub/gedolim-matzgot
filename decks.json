@@ -2195,10 +2195,19 @@
  "shvad2-1": {
   "pages": 15
  },
+ "shvad2-2": {
+  "pages": 15
+ },
+ "levin2-1": {
+  "pages": 15
+ },
  "mukva2-1": {
   "pages": 15
  },
  "kamil2-1": {
+  "pages": 15
+ },
+ "galin2-1": {
   "pages": 15
  },
  "lupian2-1": {
@@ -2211,6 +2220,12 @@
   "pages": 15
  },
  "rotenb2-3": {
+  "pages": 15
+ },
+ "miller2-1": {
+  "pages": 15
+ },
+ "edes2-1": {
   "pages": 15
  },
  "yesod2-1": {
